@@ -1,0 +1,1 @@
+Over the years I have developed a wide range of scripts and utilities, ranging from the casual hack to the daily life-saver.  I used to have them here but I've moved most of them to [GitHub](https://github.com/jrfonseca?tab=repositories).

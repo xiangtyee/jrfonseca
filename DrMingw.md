@@ -1,0 +1,1 @@
+Dr. Mingw is now hosted on [GitHub](https://github.com/jrfonseca/drmingw).
